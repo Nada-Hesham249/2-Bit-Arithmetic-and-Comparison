@@ -1,3 +1,4 @@
 # 2-Bit-Arithmetic-and-Comparison
 #### Built a Calculator and comparison test with logic gates
-![circuit](https://github.com/user-attachments/assets/0786253e-079f-463f-8346-481a27f927a4)
+<img src="![circuit](https://github.com/user-attachments/assets/e9240326-1a71-4542-b46e-158eac6cc9b7)
+" alt="description" width="300" height="200">
